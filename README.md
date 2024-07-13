@@ -3,12 +3,12 @@ Description
 This repository contains reference files and code used in Gaana Songs analysis.
 
 Table of Contents
-Introduction
-Getting Started
-File Descriptions
-Dependencies
-Insights
-Conclusion
+- Introduction
+- Getting Started
+- File Descriptions
+- Dependencies
+- Insights
+- Conclusion
 
 Introduction
 This project analyzes various aspects of songs on Gaana, focusing on singers, song duration, and collaborations. The visualizations and insights derived from the data provide a comprehensive understanding of the trends and characteristics of popular songs on Gaana.
@@ -40,33 +40,33 @@ Dependencies
 - Seaborn
 - Matplotlib
 
-Insights
-Top 10 Singers by Number of Songs
+Insights:
+- Top 10 Singers by Number of Songs
 
-Insight: Highlights the most prolific artists on Gaana.
+  Insight: Highlights the most prolific artists on Gaana.
 
-Top 10 Longest Songs by Duration
+- Top 10 Longest Songs by Duration
 
-Insight: Indicates special performances or extended mixes.
+  Insight: Indicates special performances or extended mixes.
 
-Punjabi Songs with Duration 3 to 4 Minutes
+- Punjabi Songs with Duration 3 to 4 Minutes
 
-Insight: Identifies popular song lengths in Punjabi music.
+  Insight: Identifies popular song lengths in Punjabi music.
 
-Top Singer
+- Top Singer
 
-Insight: Shows the most prolific singer based on the number of songs.
+  Insight: Shows the most prolific singer based on the number of songs.
 
-Epic Song of the Year
+- Epic Song of the Year
 
-Insight: Highlights the top 5 longest songs of the year.
+  Insight: Highlights the top 5 longest songs of the year.
 
-Best Collaboration
+- Best Collaboration
 
-Insight: Identifies the most common and successful singer pairings.
+  Insight: Identifies the most common and successful singer pairings.
 
 
-Conclusion
+ Conclusion
 
 The analysis of Gaana's song dataset provides valuable insights into music trends on the platform, offering a comprehensive view of the music landscape on Gaana.
 
