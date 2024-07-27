@@ -1,4 +1,4 @@
-# Gaana-Songs-Analysi
+# Gaana-Songs-Analysis
 
 ![Gaana Logo](https://seeklogo.com/images/G/gaana-logo-4A43F2D878-seeklogo.com.png)
 
