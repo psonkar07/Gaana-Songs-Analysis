@@ -1,5 +1,8 @@
 # Gaana-Songs-Analysis
-Description
+
+![Gaana Logo](https://seeklogo.com/images/G/gaana-logo-4A43F2D878-seeklogo.com.png)
+
+## Description
 This repository contains reference files and code used in Gaana Songs analysis.
 
 Table of Contents
